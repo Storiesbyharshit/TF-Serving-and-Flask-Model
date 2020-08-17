@@ -10,7 +10,7 @@ Contents:
 
 4. app.py - Flask app
 
-5. instructions.pdf - This file
+
 ```
 
 ## Environment 
